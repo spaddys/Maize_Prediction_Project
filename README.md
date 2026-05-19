@@ -1,5 +1,6 @@
 # Maize_Prediction_Project
 This is the Github repository with the input data and example scripts for the following paper.
+https://www.biorxiv.org/content/10.1101/2025.09.30.679283v1
 
 ## File Overview
 - `README.md` - Project overview and file descriptions.
